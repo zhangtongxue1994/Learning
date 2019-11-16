@@ -11,15 +11,16 @@ PyQt5 == 5.12.3
 ```
 
 ### 提交
+
+* Python/
+   * 2019/10/26 GUI：PyQt5制作一个简易计算器（未完成......）
+   * 2019/10/25 TSP：遗传算法求解TSP问题（效果较差）
+
 * PyTorch/
    * 2019/11/05 FasterRCNN：simple FasterRCNN
    * 2019/11/13 YOLO-v3：测试图片、视频
    * 2019/11/16 CornerNet:未完成
    * 2019/10/25 ResNet：ResNet18模型进行猫狗分类
-
-* Python/
-   * 2019/10/26 GUI：PyQt5制作一个简易计算器（未完成......）
-   * 2019/10/25 TSP：遗传算法求解TSP问题（效果较差）
 
 * TensorFlow/
    * 2019/10/25 MNIST：DNN实现MNIST数据分类
