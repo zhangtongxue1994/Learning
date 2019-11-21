@@ -15,6 +15,7 @@ PyQt5 == 5.12.3
 * Python/
    * 2019/10/26 GUI：PyQt5制作一个简易计算器（未完成......）
    * 2019/10/25 TSP：遗传算法求解TSP问题（效果较差）
+   * 2019/11/21 HiddenMarkov：Baum-Welch算法
 
 * PyTorch/
    * 2019/11/05 FasterRCNN：simple FasterRCNN
