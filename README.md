@@ -26,6 +26,7 @@ PyQt5 == 5.12.3
 * TensorFlow/
    * 2019/10/25 MNIST：DNN实现MNIST数据分类
    * 2019/10/29 MNIST：CNN实现MNIST数据分类
+   * 2019/11/21 Image-Super-Resolution：图像超分辨算法RRDN、RDN
 
 
 ### TODO
