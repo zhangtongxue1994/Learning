@@ -31,6 +31,6 @@ PyQt5 == 5.12.3
 
 
 ### TODO
-* Python/GUI（未完成......）
+* Python/GUI（未完成.....）
 * PyTorch/LSTM
 
