@@ -17,6 +17,7 @@ import pickle as pkl
 import itertools
 
 
+# reference : https://github.com/ayooshkathuria/pytorch-yolo-v3
 def arg_parse():
     """
     Parse arguements to the detect module
