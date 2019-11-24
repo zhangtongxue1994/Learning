@@ -56,7 +56,7 @@ class ModelConfig(object):
         self.data_dir = 'data/'  # 数据路径设置
         self.datasets_name = ['train', 'valid', 'test']  # 数据集存放路径
 
-        self.resnet_model = resnet.resnet18()  # 模型名字
+        self.resnet_model = resnet.resnet18(num_classes=2)  # 模型名字
         self.resume = False  # 重用模型
         self.pretrained_weight = 'best_resnet18.pth'
         self.model_save_dir = './ckpt/'  # 模型存放路径
